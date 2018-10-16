@@ -1,0 +1,5 @@
+module Resolv [system] {
+  header "/usr/include/resolv.h"
+  link "resolv"
+  export *
+}
