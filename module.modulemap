@@ -1,4 +1,4 @@
-module Resolv [system] {
+module cResolv [system] {
   header "/usr/include/resolv.h"
   link "resolv"
   export *
